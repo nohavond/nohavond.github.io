@@ -3,7 +3,7 @@
 # Programování pro pokročilé
 
 
-&nbsp
+<br>
 
 >  Tato stránka slouží pro projití kódů a prezentací k zopakování probírané látky. Zároveň zde budu dávat odkazy na různé tutoriály
 > a pomocná videa.
@@ -30,7 +30,7 @@
 
 
 
-
+<br>
 
 ## Návody
 
