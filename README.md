@@ -2,43 +2,38 @@
 
 # Programování pro pokročilé
 
+</br>
 
-Tato stránka slouží pro projití kódů a přednášek ze cvičení. Zároveň zde budu dávat odkazy na různé tutoriály.
+>  Tato stránka slouží pro projití kódů a prezentací k zopakování probírané látky. Zároveň zde budu dávat odkazy na různé tutoriály
+> a pomocná videa.
 
-
-
-
-
-> A curated list of awesome READMEs
-
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Prezentace
 
+|    | &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; Téma  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;     &nbsp; &nbsp;  &nbsp; &nbsp; Materiály   &nbsp; &nbsp;  &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------|
+|  1 | Úvod                                                                                                                                                                                | [prezentace](https://github.com/nohavond/ddmjh-python/blob/main/lab_01/uvod.pdf)                                                                                   |
+|  2 | Proměnné, základní vstup a výstup                                                                                                                                                   |                                                                                                                                                                    |
+|  3 | Výrazy a podmínky                                                                                                                                                                   |                                                                                                                                                                    |
+|  4 | Cykly                                                                                                                                                                               |                                                                                                                                                                    |
+|  5 | Funkce                                                                                                                                                                              |                                                                                                                                                                    |
+|  6 | Pole a řetězce                                                                                                                                                                      |                                                                                                                                                                    |
+|  7 |                                                                                                                                                                                     |                                                                                                                                                                    |
+|  8 |                                                                                                                                                                                     |                                                                                                                                                                    |
+|  9 |                                                                                                                                                                                     |                                                                                                                                                                    |
+| 10 |                                                                                                                                                                                     |                                                                                                                                                                    |
+| 11 |                                                                                                                                                                                     |                                                                                                                                                                    |
+| 12 |                                                                                                                                                                                     |                                                                                                                                                                    |
+| 13 |                                                                                                                                                                                     |                                                                                                                                                                    |
+| 14 |                                                                                                                                                                                     |                                                                                                                                                                    |
 
-|    | Téma | Materiály |
-|---:|------|-----------|
-|  1 |      |           |
-|  2 |      |           |
-|  3 |      |           |
-|  4 |      |           |
-|  5 |      |           |
-|  6 |      |           |
-|  7 |      |           |
-|  8 |      |           |
-|  9 |      |           |
-| 10 |      |           |
-| 11 |      |           |
-| 12 |      |           |
-| 13 |      |           |
-| 14 |      |           |
+</br>
+</br>
 
-- [Úvod](https://github.com/nohavond/ddmjh-python/blob/main/lab_01/uvod.pdf)
 
-## Kódy
--
 
 ## Návody
 
 - Jak nainstalovat Visual studio code [zde](https://studuj.digital/2020/07/20/jak-nainstalovat-visual-studio-2/).
+
 - 
