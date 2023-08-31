@@ -1,7 +1,9 @@
+<base target="_blank">
 
 <!--
 <title>Programování pro pokročilé</title>
 -->
+
 
 
 <img src="logo.png" align="right" />
