@@ -2,7 +2,8 @@
 
 # Programování pro pokročilé
 
-</br>
+
+&nbsp
 
 >  Tato stránka slouží pro projití kódů a prezentací k zopakování probírané látky. Zároveň zde budu dávat odkazy na různé tutoriály
 > a pomocná videa.
@@ -27,8 +28,7 @@
 | 13 |                                                                                                                                                                                     |                                                                                                                                                                    |
 | 14 |                                                                                                                                                                                     |                                                                                                                                                                    |
 
-</br>
-</br>
+
 
 
 
@@ -36,4 +36,4 @@
 
 - Jak nainstalovat Visual studio code [zde](https://studuj.digital/2020/07/20/jak-nainstalovat-visual-studio-2/).
 
-- 
+- Úvod do Pygame [zde](https://www.itnetwork.cz/python/pygame/pygame-uvod--instalace).
